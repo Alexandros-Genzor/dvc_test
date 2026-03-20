@@ -80,3 +80,11 @@ crashlytics-build.properties
 
 # Dedicated project build destination folder
 /[Bb]uilds/
+
+# User-imported assets (by extension)
+*.png
+*.fbx
+*.raw
+*.blend
+*.blend2
+*.wav
