@@ -1,4 +1,4 @@
 [core]
     remote = testremote
 ['remote "testremote"']
-    url = ../remote_test
+    url = g:/remote_test
